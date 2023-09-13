@@ -1,10 +1,8 @@
 # Welcome to My DevOps Profile! 👋
 
-## About Me
+## 🙋‍♂️About Me
 
 I'm Mina Samaan , a passionate and experienced DevOps Engineer with 2+ years' hands-on experience optimizing mission-critical deployments. Skilled in automating workflows, ensuring efficient operations, and leveraging DevOps processes. Proficient in Windows, Mac, Linux systems, cloud infrastructure, and monitoring tools. Holds a Bachelor's Degree in Computer Information Systems. Passionate about continuous improvement and driving collaboration between development and operations teams. Strong problem-solving and troubleshooting abilities. Dedicated to delivering high-quality code and streamlining software delivery pipelines.
-
-🙋‍♂️ About me
 
 - 🔭 I'm currently working on Terraform infrastructure provisioning and Dockerizing applications for deployment to Kubernetes.
 - 🌱 I'm constantly learning and keeping up with the latest DevOps tools and practices.
