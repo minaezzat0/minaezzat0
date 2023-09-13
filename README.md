@@ -1,4 +1,4 @@
-# Welcome to My DevOps Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
 ## 🙋‍♂️About Me
 
